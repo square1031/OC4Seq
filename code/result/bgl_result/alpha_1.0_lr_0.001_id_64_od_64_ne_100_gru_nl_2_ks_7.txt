@@ -1,0 +1,24 @@
+Computation device: cpu
+Learning rate: 0.001, Batch_size: 64, # epochs: 100
+Emb dim: 64, Ouput dim: 64, type: gru, nlayers: 2
+Loading data from ../datasets/bgl
+Computation device: cpu
+Learning rate: 0.001, Batch_size: 64, # epochs: 100
+Emb dim: 64, Ouput dim: 64, type: gru, nlayers: 2
+Loading data from ../datasets/bgl
+num_token 643 max len 2795
+Training data shape: 4738 x 2795
+Model Name: alpha_1.0_lr_0.001_id_64_od_64_ne_100_gru_nl_2_ks_7
+Data time: 1.408
+Initializing center ...
+Computation device: cpu
+Learning rate: 0.001, Batch_size: 64, # epochs: 100
+Emb dim: 64, Ouput dim: 64, type: gru, nlayers: 2
+Loading data from ../datasets/bgl
+num_token 643 max len 2795
+Training data shape: 4738 x 2795
+Model Name: alpha_1.0_lr_0.001_id_64_od_64_ne_100_gru_nl_2_ks_7
+Data time: 0.378
+Initializing center ...
+Center initialized.
+Starting training...
